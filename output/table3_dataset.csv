@@ -1,0 +1,7 @@
+Attribute,Value
+Gender categories,Female/Male/Other
+Departments (count),6
+Departments (list),"Engineering, Finance, HR, Marketing, Operations, Sales"
+Tenure months (min–max),1–119
+Signals scaled,"P, G, L ∈ [0,1]"
+Employees (N),220

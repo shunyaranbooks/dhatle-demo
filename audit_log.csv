@@ -1,0 +1,5 @@
+ts,version,actor,emp_id,action,from_stage,to_stage,prob,approved,feedback,notes
+2025-10-19T14:48:21.478161,ee2719c84f66,manager,E0005,approve,Engagement,Engagement,0.9,True,1.0,OK
+2025-10-19T15:27:14.119873,0ca467499192,manager,E0000,override,Engagement,Retention_Succession,0.1,False,0.0,
+2025-10-19T15:29:18.770763,9f87a9cbd13d,manager,E0001,override,Learning_Development,Performance_Management,0.1,False,0.0,
+2025-10-19T15:30:01.409923,1c407b0ef558,manager,E0002,override,Engagement,Onboarding,0.0,False,0.0,

@@ -1,0 +1,9 @@
+Feature,Traditional Systems,DHATLE System
+Lifecycle Coverage,"Single step (e.g., hiring)",Full journey (hire → succession)
+Model Structure,Often black-box,Transparent state-transition
+"Signals (P,G,L)",Rarely modeled,Explicitly modeled
+Attrition Risk,Simple binary,"Multi-variate, fairness-aware"
+Agent Learning,Static,Reciprocal feedback (RHML)
+Fairness,Post-hoc,Built-in to core loop
+Explainability,Limited,"Dashboards, reasons, SHAP"
+Governance,Weak,"Maturity, policy, audit trail"

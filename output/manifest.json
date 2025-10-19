@@ -1,0 +1,14 @@
+{
+  "fig1": "/workspaces/dhatle-demo/output/fig1_architecture.png",
+  "fig2": "/workspaces/dhatle-demo/output/fig2_tle_state_machine.png",
+  "fig3": "/workspaces/dhatle-demo/output/fig3_rhml_phi.png",
+  "fig4": "/workspaces/dhatle-demo/output/fig4_fairness_rates.png",
+  "fig5": "/workspaces/dhatle-demo/output/fig5_rr_hist.png",
+  "fig6a": "/workspaces/dhatle-demo/output/fig6_shap_waterfall.png",
+  "fig6b": "/workspaces/dhatle-demo/output/fig6_shap_mean_abs.png",
+  "t1": "/workspaces/dhatle-demo/output/table1_notation.csv",
+  "t2": "/workspaces/dhatle-demo/output/table2_hparams.csv",
+  "t3": "/workspaces/dhatle-demo/output/table3_dataset.csv",
+  "t4": "/workspaces/dhatle-demo/output/table4_traditional_vs_dhatle.csv",
+  "t5": "/workspaces/dhatle-demo/output/table5_sensitivity.csv"
+}

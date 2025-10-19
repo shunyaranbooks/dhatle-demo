@@ -1,0 +1,9 @@
+Symbol,Meaning
+S_t(i),Employee i's lifecycle stage at time t
+"P_t(i), G_t(i), L(i)","Performance, Engagement, Learning speed"
+θ,Gate thresholds / policy parameters
+φ_{jk}(i),Probability of s_k → s_j for employee i
+λ,RHML learning rate
+RR_t(i),Resignation risk at time t
+"γ_1, γ_2, γ_3",Weights in RR_t model
+"ω_1, ω_2, ω_3",Maturity weights (Accuracy / Trust / Stability)

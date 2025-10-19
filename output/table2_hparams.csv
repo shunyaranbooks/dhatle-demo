@@ -1,0 +1,7 @@
+Parameter,Default,Description
+perf_min,0.50,Minimum performance to advance
+eng_min,0.50,Minimum engagement to advance
+learn_min,0.45,Minimum learning speed to advance
+λ,0.20,RHML learning rate
+"(γ1, γ2, γ3)","(0.4, 0.4, 0.2)",RR weights
+Maturity threshold,0.75,Autopilot enable cutoff
